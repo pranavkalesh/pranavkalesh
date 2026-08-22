@@ -10,7 +10,7 @@
 
 I am a **Computer Science Engineering Graduate** (B.Tech CSE, 2022–2026 | CGPA: 8.23) from **Malla Reddy University, Hyderabad**. 
 
-* 💻 Proficient in **Python, Java, Object-Oriented Programming (OOP)**, and **Relational Databases (MySQL)**.
+* 💻 Strong foundations in **Python, Java, Object-Oriented Programming (OOP)**, and **Relational Databases (MySQL)**.
 * 🛡️ Passionate about **Applied Cryptography** (AES-128, SHA-256 Hashing) and **Biometric Systems** (dlib, OpenCV).
 * 📚 Co-author of a **Taylor & Francis Scopus-Indexed research paper** on tamper-evident cryptographic voting systems.
 * 🚀 Actively seeking entry-level **Software Engineering / Python Developer / Associate Software Engineer** opportunities.
@@ -47,9 +47,6 @@ I am a **Computer Science Engineering Graduate** (B.Tech CSE, 2022–2026 | CGPA
 #### 🌐 [Personal Developer Portfolio](https://github.com/pranavkalesh/portfolio-)
 * Modern, responsive glassmorphic portfolio website showcasing software projects, research publications, interactive resume viewer/download, and live credentials verification.
 * 🚀 **[Live Website](https://pranavkalesh.github.io/portfolio-/)**
-
-#### 🗺️ [Trek Tracer](https://github.com/pranavkalesh/Trek-Tracer)
-* Location tracking and adventure travel management system designed for logging, visualizing, and sharing trekking routes and coordinates.
 
 ---
 
