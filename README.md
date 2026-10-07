@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science Engineering Graduate** (B.Tech CSE, 2022–2026 | CGPA: 8.23) from **Malla Reddy University, Hyderabad**. 
+I am a **Computer Science Engineering Graduate** (B.Tech CSE, 2022–2026 | CGPA: 8.41) from **Malla Reddy University, Hyderabad**. 
 
 * 💻 Strong foundations in **Python, Java, Object-Oriented Programming (OOP)**, and **Relational Databases (MySQL)**.
 * 🛡️ Passionate about **Applied Cryptography** (AES-128, SHA-256 Hashing) and **Biometric Systems** (dlib, OpenCV).
